@@ -1,7 +1,0 @@
-{
-  "name": "table monster Skills",
-  "description": "Works with table monster over the firewall with Alexa skills",
-  "repository": "https://github.com/jinbok1022/tablemonster",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["tablemonster", "google home", "wihtout ifttt", "iot", "arduino", "Alexa Skills"]
-}
